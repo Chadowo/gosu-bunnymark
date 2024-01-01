@@ -50,6 +50,8 @@ class BunnyMarkWindow < Gosu::Window
         bunny.y = 30 # Ditto
       end
     end
+
+    close if Gosu.button_down?(Gosu::KB_ESCAPE)
   end
 
   def button_down(id)
