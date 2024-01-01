@@ -1,5 +1,7 @@
 # Gosu BunnyMark
 
+![Screenshot](docs/media/screenshot_1.png)
+
 Benchmark for the Gosu game framework.
 
 ## Results
