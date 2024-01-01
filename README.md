@@ -28,9 +28,9 @@ Clone the repo, and run `main.rb`.
 
 ## Controls
 
-Mouse wheel - Add or remove bunnies. 
-<kbd>0</kbd> - Remove all bunnies.
-<kbd>Escape</kbd> - Close the window.
+- Mouse wheel - Add or remove bunnies. 
+- <kbd>0</kbd> - Remove all bunnies.
+- <kbd>Escape</kbd> - Close the window.
 
 ## License
 
