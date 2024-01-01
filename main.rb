@@ -76,7 +76,7 @@ class BunnyMarkWindow < Gosu::Window
       bunny.sprite.draw(bunny.x, bunny.y, 0)
     end
 
-    # Draw the FPS in red if it is below 30
+    # Adjust the color of the FPS counter based on how many FPS we're getting
     color = if Gosu.fps < 25
               Gosu::Color::RED
             elsif Gosu.fps < 35
