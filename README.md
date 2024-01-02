@@ -6,8 +6,7 @@ Benchmark for the Gosu game framework.
 
 ## Results
 
-Running on my weak laptop.
-Specs: 
+Running on my laptop with the following specs: 
 
 ```console
 OS: Linux Mint 21.1 XFCE x86_64
