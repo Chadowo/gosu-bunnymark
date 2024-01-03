@@ -77,9 +77,9 @@ class BunnyMarkWindow < Gosu::Window
     end
 
     # Adjust the color of the FPS counter based on how many FPS we're getting
-    color = if Gosu.fps < 25
+    color = if Gosu.fps < 20
               Gosu::Color::RED
-            elsif Gosu.fps < 35
+            elsif Gosu.fps < 40
               Gosu::Color::YELLOW
             else
               Gosu::Color::GREEN
