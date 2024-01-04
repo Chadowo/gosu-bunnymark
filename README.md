@@ -16,12 +16,14 @@ GPU: Intel GeminiLake [UHD Graphics 600]
 RAM: 4GB
 ```
 
-- 5000 bunnies: ~32fps
-- 10 000 bunnies: ~17fps
-- 20 000 bunnies: ~8fps
-- 30 000 bunnies: ~5fps
-- 40 000 bunnies: ~4fps
-- 50 000 bunnies: ~3fps
+Bunnies count:
+
+- 5000: ~32fps.
+- 10 000: ~17fps.
+- 20 000: ~8fps.
+- 30 000: ~5fps.
+- 40 000: ~4fps.
+- 50 000: ~3fps.
 
 ## Run It
 
