@@ -16,7 +16,7 @@ GPU: Intel GeminiLake [UHD Graphics 600]
 RAM: 4GB
 ```
 
-Bunnies count:
+Bunny count:
 
 - 5000: ~32fps.
 - 10 000: ~17fps.
