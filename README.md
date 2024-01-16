@@ -45,4 +45,4 @@ owner of the assets and want me to take them down please contact me.
 
 ### Code
 
-This project is available under the [MIT License](/LICENSE).
+This project is licensed under the [MIT License](/LICENSE).
